@@ -1,0 +1,6 @@
+# Ignore Output directory (models, images, tables)
+Output/
+
+# Ignore Python caches
+__pycache__/
+*.pyc
